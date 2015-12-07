@@ -1,7 +1,5 @@
 # Consensus-based Matching and Tracking Android
 
-consensusbasedmatchingandtracking_cmt_tracker-melvincabatuan created by Classroom for GitHub
-
 - Original algorithm by Georg Nebehay and Roman Pflugfelder, "Clustering of Static-Adaptive Correspondences for Deformable Object Tracking", CVPR 2015
 - This exercise is inspired by Jesus Ayuso's work here: https://github.com/ayuso2013/OpenCVSamples  (in Eclipse)
 
@@ -177,31 +175,3 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
 ```
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/bfe87ab931193dc8fc11b1362382fc14
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/consensusbasedmatchingandtracking_cmt_tracker-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-## Videocapture:
-
-[![screenshot](screenshot_001.png)](https://youtu.be/9EqoyafyFog)
-
-"*The mark of a mature programmer is willingness to throw out code you spent time on when you realize it's pointless.*" -  Bram Cohen
